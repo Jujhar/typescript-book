@@ -1,7 +1,7 @@
-TypeScript Deep Dive
+ਟਾਈਪਸਕ੍ਰਿਪਟ ਕੀ ਸੰਪੂਰਨ ਰੀਤ
 =======
 
-I've been looking at the issues that turn up commonly when people start using TypeScript. This is based on the lessons from [Stack Overflow](http://stackoverflow.com/tags/typescript/topusers) / [DefinitelyTyped](https://github.com/DefinitelyTyped/) and general engagement with the [TypeScript community](https://github.com/TypeStrong/). You can [follow for updates](https://twitter.com/basarat) and [don't forget to ★ on GitHub](https://github.com/basarat/typescript-book) 🌹
+ਹਮ ਟਾਈਪਸਕ੍ਰਿਪਟ ਸ਼ੁਰੂ ਕਰਨ ਵਿੱਚ ਆਮ ਸਵਾਲਾ ਦੀ ਇਕੱਤਰਤਾ ਕੀਤਾ ਹੈ। ਇਹ ਬੋਧ ਅਸੀਂ [Stack Overflow](http://stackoverflow.com/tags/typescript/topusers) / [DefinitelyTyped](https://github.com/DefinitelyTyped/) ਅਤੇ [TypeScript community](https://github.com/TypeStrong/) ਸੰਬੰਧ ਹੋਨ ਦੇ ਥਰੂ ਮਿਲਿਆ ਹੈ।. ਏਸ ਦੀ [ਸੂਚਨਾ ਕੀ ਜਾਣਕਾਰੀ](https://twitter.com/basarat) ਮਿਲ ਸਕਦੀ ਅਤੇ [ਸਾਨੂੰ GitHub ਤੇ ★ ਜਰੂਰ ਦੇਵੋ](https://github.com/basarat/typescript-book) 🌹
 
 ## Reviews
 
@@ -30,13 +30,13 @@ I've been looking at the issues that turn up commonly when people start using Ty
 * Thanks, this is a great book 🤓🤓 [link](https://twitter.com/jjwonmin/status/885666375548547073)
 * Deep dive to typescript is awesome in so many levels. i find it very insightful. Thanks [link](https://twitter.com/orenmizr/status/891083492787970053)
 * @basarat's intro to @typescriptlang is still one of the best going (if not THE best) [link](https://twitter.com/stevealee/status/953953255968698368)
-* 
+*
 * This is sweet! So many #typescript goodies! [link](https://twitter.com/pauliescanlon/status/989898852474998784)
 
 ## Get Started
 If you are here to read the book online [get started](https://basarat.gitbook.io/typescript/getting-started).
 
-## Translations 
+## Translations
 Book is completely free so you can copy paste whatever you want without requiring permission. If you have a translation you want me to link here. [Send a PR](https://github.com/basarat/typescript-book/edit/master/README.md).
 * [Filipino](https://github.com/themarshann/typescript-book-fil)
 * [Italian](https://github.com/TizioFittizio/typescript-book)

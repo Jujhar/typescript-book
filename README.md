@@ -1,7 +1,7 @@
 ਟਾਈਪਸਕ੍ਰਿਪਟ ਕੀ ਸੰਪੂਰਨ ਰੀਤ
 =======
 
-ਹਮ ਟਾਈਪਸਕ੍ਰਿਪਟ ਸ਼ੁਰੂ ਕਰਨ ਵਿੱਚ ਆਮ ਸਵਾਲਾ ਦੀ ਇਕੱਤਰਤਾ ਕੀਤਾ ਹੈ। ਇਹ ਬੋਧ ਅਸੀਂ [Stack Overflow](http://stackoverflow.com/tags/typescript/topusers) / [DefinitelyTyped](https://github.com/DefinitelyTyped/) ਅਤੇ [TypeScript community](https://github.com/TypeStrong/) ਸੰਬੰਧ ਹੋਨ ਦੇ ਥਰੂ ਮਿਲਿਆ ਹੈ।. ਏਸ ਦੀ [ਸੂਚਨਾ ਕੀ ਜਾਣਕਾਰੀ](https://twitter.com/basarat) ਮਿਲ ਸਕਦੀ ਅਤੇ [ਸਾਨੂੰ GitHub ਤੇ ★ ਜਰੂਰ ਦੇਵੋ](https://github.com/basarat/typescript-book) 🌹
+ਹਮ ਟਾਈਪਸਕ੍ਰਿਪਟ ਸ਼ੁਰੂ ਕਰਨ ਵਿੱਚ ਆਮ ਸਵਾਲਾ ਦੀ ਇਕੱਤਰਤਾ ਕੀਤਾ ਹੈ। ਇਹ ਬੋਧ ਅਸੀਂ [Stack Overflow](http://stackoverflow.com/tags/typescript/topusers) / [DefinitelyTyped](https://github.com/DefinitelyTyped/) ਅਤੇ [TypeScript community](https://github.com/TypeStrong/) ਸੰਬੰਧ ਹੋਨ ਦੇ ਥਰੂ ਮਿਲਿਆ ਹੈ।. ਏਸ ਦੀ [Twitter ਤੇ ਸੂਚਨਾ ਕੀ ਜਾਣਕਾਰੀ](https://twitter.com/basarat) ਮਿਲ ਸਕਦੀ ਅਤੇ [ਸਾਨੂੰ GitHub ਤੇ ★ ਜਰੂਰ ਦੇਵੋ](https://github.com/basarat/typescript-book) 🌹
 
 ## Reviews
 

@@ -1,13 +1,13 @@
-# Why TypeScript
-There are two main goals of TypeScript:
+# ਟਾਈਪਸਕ੍ਰਿਪਟ ਕੇ ਫਾਇਦੇ 
+ਦੋ ਖ਼ਾਸ ਮਕਸਦ ਹੈ ਟਾਈਪਸਕ੍ਰਿਪਟ ਵਰਤਣ ਲਈ:
 * Provide an *optional type system* for JavaScript.
 * Provide planned features from future JavaScript editions to current JavaScript engines
 
-The desire for these goals is motivated below.
+ਇਸ ਮਕਸਦ ਦੀ ਪਿੱਛੇ ਆਸਾਂ ਇਥੇ ਥੱਲੇ ਦੱਸੋ ਗੇ
 
 ## The TypeScript type system
 
-You might be wondering "**Why add types to JavaScript?**"
+ਤੁਸੀਂ ਸ਼ਾਇਦ ਸੋਚਦੇ "**Why add types to JavaScript?**"
 
 Types have proven ability to enhance code quality and understandability. Large teams (Google, Microsoft, Facebook) have continually arrived at this conclusion. Specifically:
 
